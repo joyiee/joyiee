@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Jiawei Huang here.
-🌱 I'm a master degree candidate at Shanghai Jiao Tong University, majoring in Computer Science. 
-🔭 I’m currently working on Dataflow Architecture，especially focus on graph-based simulation framework.
-💻 I'm passionate about program performance optimization, with hands-on experience in assembly-level optimization and high-performance code implementation.
+🌱 I'm a master degree candidate at Shanghai Jiao Tong University, majoring in Computer Science. <br>
+🔭 I’m currently working on Dataflow Architecture，especially focus on graph-based simulation framework.<br>
+💻 I'm passionate about program performance optimization, with hands-on experience in assembly-level optimization and high-performance code implementation.<br>
 
 <!--
 **joyiee/joyiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
